@@ -23,9 +23,9 @@ In this repository, you'll find three different variations of the Stealware lice
 
 For the full text of each Stealware license, see the respective files in this repository:
 
-- [Stealware License](Stealware_License)
-- [Stealware License - Fight Club Edition](Stealware_License_Fight_Club_Edition)
-- [Stealware License - Pirate Code Edition](Stealware_License_Pirate_Code_Edition)
+- [Stealware License](Stealware License)
+- [Stealware License - Fight Club Edition](Stealware License - Fight Club Edition)
+- [Stealware License - Pirate Code Edition](Stealware License - Pirate Code Edition)
 
 ## Usage
 
